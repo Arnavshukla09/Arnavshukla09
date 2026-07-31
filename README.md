@@ -62,9 +62,9 @@
 
 ## 🚀 <img src="assets/header_about.svg" alt="About Me" />
 
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+<img align="right" alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
-<img src="assets/terminal.svg" alt="Terminal" />
+<img src="assets/terminal.svg" alt="Terminal" width="530" />
 
 <br clear="right"/>
 
@@ -241,6 +241,7 @@
 
 <br/>
 
+### 🏆 LeetCode Progress
 <div align="center">
   <a href="https://leetcode.com/u/Arnavshukla09/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Arnavshukla09?theme=dark&font=Outfit&ext=activity" alt="LeetCode Stats" />
@@ -249,6 +250,7 @@
 
 <br/>
 
+### 🕹️ Contribution Tetris
 <div align="center">
   <img src="assets/tetris.gif" width="100%" alt="Contribution Tetris Animation" />
 </div>
