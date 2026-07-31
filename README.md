@@ -204,6 +204,10 @@
         <a href="https://github.com/Arnavshukla09/Student-Service-Portal---CampusCart">
           <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
         </a>
+        &nbsp;
+        <a href="https://campuscart-bq5r.onrender.com/">
+          <img src="https://img.shields.io/badge/Live_Demo-0d1117?style=flat-square&logo=render&logoColor=white&borderColor=10b981" />
+        </a>
       </div>
     </td>
   </tr>
