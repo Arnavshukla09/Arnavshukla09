@@ -30,7 +30,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&animation=twinkling" width="100%" />
 
----
+<img src="assets/animated_line.svg" width="100%">
 
 ## 🏆 Achievements at a Glance
 
@@ -42,7 +42,7 @@
 
 </div>
 
----
+<img src="assets/animated_line.svg" width="100%">
 
 ## 🚀 <img src="assets/header_about.svg" alt="About Me" />
 
@@ -52,9 +52,9 @@
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="assets/assassins_reversed.gif" width="100%">
 
----
+<img src="assets/animated_line.svg" width="100%">
 
 ## 💻 <img src="assets/header_tech.svg" alt="Tech Stack" />
 
@@ -106,7 +106,7 @@
   <img src="https://img.shields.io/badge/MCP-ec4899?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
----
+<img src="assets/animated_line.svg" width="100%">
 
 ## 🛠️ <img src="assets/header_projects.svg" alt="Featured Projects" />
 
@@ -209,7 +209,7 @@
   </tr>
 </table>
 
----
+<img src="assets/animated_line.svg" width="100%">
 
 ## 📊 <img src="assets/header_analytics.svg" alt="GitHub Analytics" />
 
@@ -247,7 +247,7 @@
   <b>View Other Years:</b> <a href="assets/tetris_2025.gif">2025</a>
 </div>
 
----
+<img src="assets/animated_line.svg" width="100%">
 
 ## 🤝 <img src="assets/header_connect.svg" alt="Let's Connect" />
 <p align="center">
