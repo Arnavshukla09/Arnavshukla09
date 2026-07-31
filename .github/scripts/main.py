@@ -25,28 +25,32 @@ def draw_grid(draw, grid, cell_size, colors):
             color = colors[grid[week][day]]
             x0, y0 = week * cell_size + 40, day * cell_size + 20
             x1, y1 = x0 + cell_size, y0 + cell_size
-            # Shadow
-            draw.rectangle([x0 + 3, y0 + 3, x1 + 3, y1 + 3], fill=(0, 0, 0, 100))  # Semi-transparent gray shadow
-            # Block
-            draw.rectangle([x0, y0, x1, y1], fill=color, outline=(13, 17, 23))
+            # Separation & Rounding
+            padding = 1.5
+            draw.rounded_rectangle([x0 + padding, y0 + padding, x1 - padding, y1 - padding], radius=3, fill=color)
 
 def draw_legend(draw, cell_size, image_width, image_height, username, year):
+    try:
+        font = ImageFont.truetype(".github/scripts/Roboto-Regular.ttf", 11)
+    except IOError:
+        font = ImageFont.load_default()
+
     # Draw day names
     days = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
     for i, day in enumerate(days):
         y = i * cell_size + 20
-        draw.text((5, y), day, fill=(255, 255, 255))
+        draw.text((5, y), day, fill=(125, 133, 144), font=font)
 
     # Draw month names
     months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
     month_positions = {1: 0, 2: 4, 3: 8, 4: 12, 5: 16, 6: 20, 7: 24, 8: 28, 9: 32, 10: 36, 11: 40, 12: 44}
     for month, week in month_positions.items():
         x = week * cell_size + 40
-        draw.text((x, 5), months[month - 1], fill=(255, 255, 255))
+        draw.text((x, 5), months[month - 1], fill=(125, 133, 144), font=font)
 
     # Draw GitHub username and year in top left
     text = f"{year}"
-    draw.text((5, 5), text, fill=(255, 255, 255))
+    draw.text((5, 5), text, fill=(125, 133, 144), font=font)
 
     # Add black bar below months with "Credits: DEBBAWEB" aligned to the right
     legend_width = 40
@@ -92,10 +96,11 @@ def create_tetris_gif(username, year, contributions, output_path):
                     # Draw moving block
                     x0, y0 = week * cell_size + legend_width, step * cell_size + 20
                     x1, y1 = x0 + cell_size, y0 + cell_size
-                    draw.rectangle(
-                        [x0, y0, x1, y1],
-                        fill=colors[v],
-                        outline=(13, 17, 23)
+                    padding = 1.5
+                    draw.rounded_rectangle(
+                        [x0 + padding, y0 + padding, x1 - padding, y1 - padding],
+                        radius=3,
+                        fill=colors[v]
                     )
 
                     frames.append(img)
