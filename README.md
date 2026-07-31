@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Arnav Shukla Banner" width="100%" />
+  <a href="https://portfolio-nine-teal-m27r69k97q.vercel.app/" target="_blank">
+    <img src="assets/banner.svg" alt="Arnav Shukla Banner" width="100%" />
+  </a>
 </div>
 
 <br/>
@@ -29,7 +31,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" /> About Me
+## 👋 <img src="assets/header_about.svg" alt="About Me" />
 
 Building production-grade software with a focus on:
 
@@ -44,67 +46,67 @@ Building production-grade software with a focus on:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> Tech Stack
+## 💻 <img src="assets/header_tech.svg" alt="Tech Stack" />
 
 ### Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=38bdf8&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=38bdf8&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=38bdf8&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=38bdf8&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=38bdf8&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=38bdf8&borderColor=161b22" />
+  <img src="https://img.shields.io/badge/Python-3b82f6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-3b82f6?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-3b82f6?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3b82f6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-3b82f6?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-3b82f6?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6&borderColor=161b22" />
+  <img src="https://img.shields.io/badge/React-8b5cf6?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-8b5cf6?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-8b5cf6?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-8b5cf6?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-8b5cf6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/Node-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/REST-0d1117?style=for-the-badge&logo=fastapi&logoColor=white&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/WebSockets-0d1117?style=for-the-badge&logo=socketdotio&logoColor=white&borderColor=161b22" />
+  <img src="https://img.shields.io/badge/FastAPI-10b981?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-10b981?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node-10b981?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-10b981?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-10b981?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
 ### Database
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/PostGIS-0d1117?style=for-the-badge&logo=postgresql&logoColor=white&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-0d1117?style=for-the-badge&logo=python&logoColor=white&borderColor=161b22" />
+  <img src="https://img.shields.io/badge/PostgreSQL-f59e0b?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-f59e0b?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-f59e0b?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-f59e0b?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostGIS-f59e0b?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-f59e0b?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### Cloud
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=232F3E&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=white&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white&borderColor=161b22" />
+  <img src="https://img.shields.io/badge/Docker-6366f1?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-6366f1?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-6366f1?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-6366f1?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ### AI
 <p align="left">
-  <img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=google&logoColor=4285F4&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/Groq-0d1117?style=for-the-badge&logo=groq&logoColor=F3663F&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=white&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=openai&logoColor=white&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logo=anthropic&logoColor=white&borderColor=161b22" />
-  <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&borderColor=161b22" />
+  <img src="https://img.shields.io/badge/Gemini-ec4899?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-ec4899?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-ec4899?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-ec4899?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-ec4899?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-ec4899?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" /> Featured Projects
+## 🚀 <img src="assets/header_projects.svg" alt="Featured Projects" />
 
 <table bordercolor="#161b22">
   <tr>
@@ -191,23 +193,27 @@ Building production-grade software with a focus on:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bar%20Chart.png" alt="Bar Chart" width="25" /> GitHub Analytics
+## 📊 <img src="assets/header_analytics.svg" alt="GitHub Analytics" />
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arnavshukla09&theme=dark" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Arnavshukla09&theme=dark&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arnavshukla09&theme=dark" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arnavshukla09&theme=dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arnavshukla09&theme=dark" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Arnavshukla09&theme=dark&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arnavshukla09&theme=dark" />
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" /> Achievements
+## 🏆 <img src="assets/header_achievements.svg" alt="Achievements" />
 
 - **AWS Cloud Architecting**
 - **Honeywell Hackathon**
@@ -217,7 +223,7 @@ Building production-grade software with a focus on:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bullseye.png" alt="Bullseye" width="25" /> Current Focus
+## 🎯 <img src="assets/header_focus.svg" alt="Current Focus" />
 
 - **Learning**
 - **System Design**
@@ -229,7 +235,7 @@ Building production-grade software with a focus on:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" alt="Postbox" width="25" /> Let's Connect
+## 📬 <img src="assets/header_connect.svg" alt="Let's Connect" />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arnavshukla09/" target="_blank">
