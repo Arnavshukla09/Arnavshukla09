@@ -64,23 +64,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
-```shell
-arnav@shukla:~$ cat profile.json
-{
-  "name": "Arnav Shukla",
-  "location": "Indore, India 🇮🇳",
-  "university": "VIT Bhopal University (2027)",
-  "role": "Systems & Applied AI Engineer",
-  "focus": ["AI Systems", "Backend", "Distributed Systems"]
-}
-
-arnav@shukla:~$ ./execute_initiatives.sh
-> ⚙️ Architecting scalable backends & distributed systems.
-> 🧠 Integrating LLMs (MCP, RAG) into real-world tasks.
-> ⚡ Benchmarking performance & latency of deployed models.
-> 🔒 Designing secure multi-tenant DBs with Row-Level Sec.
-> 💬 Ask about FastAPI, Next.js, Postgres, WebSockets.
-```
+<img src="assets/terminal.svg" alt="Terminal" />
 
 <br clear="right"/>
 

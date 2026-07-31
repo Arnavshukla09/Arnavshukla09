@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420">
+  <!-- Terminal Window Background -->
+  <rect width="100%" height="100%" rx="10" ry="10" fill="#1e1e1e" />
+  
+  <!-- Terminal Top Bar -->
+  <rect width="100%" height="30" rx="10" ry="10" fill="#2d2d2d" />
+  <!-- Bottom square corners for top bar -->
+  <rect y="15" width="100%" height="15" fill="#2d2d2d" />
+  
+  <!-- Window Controls -->
+  <circle cx="20" cy="15" r="6" fill="#ff5f56" />
+  <circle cx="40" cy="15" r="6" fill="#ffbd2e" />
+  <circle cx="60" cy="15" r="6" fill="#27c93f" />
+
+  <!-- Terminal Content -->
+  <g font-family="Consolas, 'Courier New', monospace" font-size="14">
+    <!-- Command 1 -->
+    <text x="20" y="60">
+      <tspan fill="#4ade80">arnav@shukla</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#60a5fa">~</tspan><tspan fill="#ffffff">$ cat profile.json</tspan>
+    </text>
+    
+    <!-- JSON Content -->
+    <text x="20" y="85" fill="#d4d4d4">{</text>
+    <text x="40" y="110"><tspan fill="#9cdcfe">"name"</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">"Arnav Shukla"</tspan><tspan fill="#d4d4d4">,</tspan></text>
+    <text x="40" y="135"><tspan fill="#9cdcfe">"location"</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">"Indore, India 🇮🇳"</tspan><tspan fill="#d4d4d4">,</tspan></text>
+    <text x="40" y="160"><tspan fill="#9cdcfe">"university"</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">"VIT Bhopal University (2027)"</tspan><tspan fill="#d4d4d4">,</tspan></text>
+    <text x="40" y="185"><tspan fill="#9cdcfe">"role"</tspan><tspan fill="#d4d4d4">: </tspan><tspan fill="#ce9178">"Systems &amp; Applied AI Engineer"</tspan><tspan fill="#d4d4d4">,</tspan></text>
+    <text x="40" y="210"><tspan fill="#9cdcfe">"focus"</tspan><tspan fill="#d4d4d4">: [</tspan><tspan fill="#ce9178">"AI Systems"</tspan><tspan fill="#d4d4d4">, </tspan><tspan fill="#ce9178">"Backend"</tspan><tspan fill="#d4d4d4">, </tspan><tspan fill="#ce9178">"Distributed Systems"</tspan><tspan fill="#d4d4d4">]</tspan></text>
+    <text x="20" y="235" fill="#d4d4d4">}</text>
+
+    <!-- Command 2 -->
+    <text x="20" y="275">
+      <tspan fill="#4ade80">arnav@shukla</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#60a5fa">~</tspan><tspan fill="#ffffff">$ ./execute_initiatives.sh</tspan>
+    </text>
+
+    <!-- Script Output -->
+    <text x="20" y="300" fill="#d4d4d4"><tspan fill="#f472b6">&gt;</tspan> ⚙️ Architecting scalable backends &amp; distributed systems.</text>
+    <text x="20" y="325" fill="#d4d4d4"><tspan fill="#f472b6">&gt;</tspan> 🧠 Integrating LLMs (MCP, RAG) into real-world tasks.</text>
+    <text x="20" y="350" fill="#d4d4d4"><tspan fill="#f472b6">&gt;</tspan> ⚡ Benchmarking performance &amp; latency of deployed models.</text>
+    <text x="20" y="375" fill="#d4d4d4"><tspan fill="#f472b6">&gt;</tspan> 🔒 Designing secure multi-tenant DBs with Row-Level Sec.</text>
+    <text x="20" y="400" fill="#d4d4d4"><tspan fill="#f472b6">&gt;</tspan> 💬 Ask about FastAPI, Next.js, Postgres, WebSockets.</text>
+  </g>
+</svg>
