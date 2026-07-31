@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="250" viewBox="0 0 800 250">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d11" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#818cf8" />
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&amp;family=Fira+Code:wght@400;500&amp;display=swap');
+      
+      .name { 
+        font-family: 'Outfit', sans-serif; 
+        font-size: 52px; 
+        font-weight: 800; 
+        fill: url(#glow); 
+      }
+      .role { 
+        font-family: 'Outfit', sans-serif; 
+        font-size: 24px; 
+        font-weight: 600; 
+        fill: #e2e8f0; 
+      }
+      .subtitle { 
+        font-family: 'Fira Code', monospace; 
+        font-size: 14px; 
+        font-weight: 500;
+        fill: #94a3b8; 
+      }
+      .bracket { fill: #38bdf8; }
+      
+      @keyframes float1 {
+        0% { transform: translate(0, 0); opacity: 0.1; }
+        50% { transform: translate(15px, -15px); opacity: 0.2; }
+        100% { transform: translate(0, 0); opacity: 0.1; }
+      }
+      @keyframes float2 {
+        0% { transform: translate(0, 0); opacity: 0.1; }
+        50% { transform: translate(-20px, 10px); opacity: 0.25; }
+        100% { transform: translate(0, 0); opacity: 0.1; }
+      }
+      @keyframes float3 {
+        0% { transform: translate(0, 0) rotate(0deg); opacity: 0.05; }
+        50% { transform: translate(10px, 20px) rotate(10deg); opacity: 0.15; }
+        100% { transform: translate(0, 0) rotate(0deg); opacity: 0.05; }
+      }
+      .orb1 { animation: float1 8s ease-in-out infinite; fill: #38bdf8; }
+      .orb2 { animation: float2 10s ease-in-out infinite; fill: #818cf8; }
+      .orb3 { animation: float3 12s ease-in-out infinite; fill: #c084fc; }
+    </style>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="url(#bg)" rx="12" />
+  
+  <!-- Animated Background Orbs -->
+  <circle cx="650" cy="50" r="120" class="orb1" filter="blur(40px)" />
+  <circle cx="750" cy="200" r="100" class="orb2" filter="blur(50px)" />
+  <rect x="50" y="200" width="150" height="150" rx="30" class="orb3" filter="blur(60px)" />
+
+  <!-- Code window decoration -->
+  <g transform="translate(40, 30)">
+    <circle cx="10" cy="10" r="6" fill="#ef4444" opacity="0.8" />
+    <circle cx="30" cy="10" r="6" fill="#eab308" opacity="0.8" />
+    <circle cx="50" cy="10" r="6" fill="#22c55e" opacity="0.8" />
+  </g>
+
+  <!-- Text Content -->
+  <g transform="translate(45, 110)">
+    <text y="0" class="name">Arnav Shukla</text>
+    <text y="45" class="role">Systems &amp; Applied AI Engineer</text>
+    <text y="85" class="subtitle">
+      <tspan class="bracket">&lt;</tspan> Building production-grade software at the intersection of AI &amp; Backend <tspan class="bracket">/&gt;</tspan>
+    </text>
+  </g>
+</svg>

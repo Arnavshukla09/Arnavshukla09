@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&amp;display=swap');
+      
+      .year { font-family: 'Outfit', sans-serif; font-size: 20px; font-weight: 800; fill: #38bdf8; }
+      .event-title { font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 600; fill: #e2e8f0; }
+      .event-desc { font-family: 'Outfit', sans-serif; font-size: 14px; font-weight: 400; fill: #94a3b8; }
+      
+      .line { stroke: #1e293b; stroke-width: 4; }
+      .node { fill: #0f172a; stroke: #38bdf8; stroke-width: 4; }
+      
+      @keyframes drawLine {
+        0% { stroke-dasharray: 0, 1000; }
+        100% { stroke-dasharray: 1000, 0; }
+      }
+      .animated-line { stroke: #38bdf8; stroke-width: 4; animation: drawLine 3s ease-out forwards; }
+    </style>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#0d1117" rx="12" />
+  
+  <!-- Timeline Line -->
+  <line x1="150" y1="40" x2="150" y2="360" class="line" />
+  <line x1="150" y1="40" x2="150" y2="360" class="animated-line" />
+
+  <!-- 2024 Node -->
+  <g transform="translate(0, 80)">
+    <circle cx="150" cy="0" r="10" class="node" />
+    <text x="80" y="6" class="year">2024</text>
+    <text x="180" y="-5" class="event-title">Full Stack Mastery &amp; Systems</text>
+    <text x="180" y="15" class="event-desc">Built CampusCart &amp; Rural Healthcare. Mastered Postgres RLS &amp; Cloud.</text>
+  </g>
+
+  <!-- 2025 Node -->
+  <g transform="translate(0, 160)">
+    <circle cx="150" cy="0" r="10" class="node" />
+    <text x="80" y="6" class="year">2025</text>
+    <text x="180" y="-5" class="event-title">Applied AI Integration</text>
+    <text x="180" y="15" class="event-desc">Built TalentMatch &amp; EcoLoop. Deep dive into local LLMs &amp; FastMCP.</text>
+  </g>
+
+  <!-- 2026 Node -->
+  <g transform="translate(0, 240)">
+    <circle cx="150" cy="0" r="10" class="node" />
+    <text x="80" y="6" class="year">2026</text>
+    <text x="180" y="-5" class="event-title">Production Scale &amp; Performance</text>
+    <text x="180" y="15" class="event-desc">Focusing on optimizing AI inference, Kubernetes, and distributed architecture.</text>
+  </g>
+
+  <!-- Future Node -->
+  <g transform="translate(0, 320)">
+    <circle cx="150" cy="0" r="10" class="node" />
+    <text x="75" y="6" class="year">Future</text>
+    <text x="180" y="-5" class="event-title">Pioneering Agentic Systems</text>
+    <text x="180" y="15" class="event-desc">Building autonomous agents that reliably execute real-world enterprise tasks.</text>
+  </g>
+</svg>
