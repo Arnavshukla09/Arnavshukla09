@@ -62,24 +62,24 @@
 
 ## 🚀 <img src="assets/header_about.svg" alt="About Me" />
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 
 ```shell
 arnav@shukla:~$ cat profile.json
 {
   "name": "Arnav Shukla",
   "location": "Indore, India 🇮🇳",
-  "university": "VIT Bhopal University — B.Tech CSE (Graduating 2027)",
+  "university": "VIT Bhopal University (2027)",
   "role": "Systems & Applied AI Engineer",
-  "focus": ["AI Systems", "Backend Engineering", "Distributed Systems"]
+  "focus": ["AI Systems", "Backend", "Distributed Systems"]
 }
 
 arnav@shukla:~$ ./execute_initiatives.sh
-> ⚙️ Architecting fault-tolerant backends and scalable distributed systems.
-> 🧠 Integrating local and cloud-based LLMs (MCP, RAG) into real-world tasks.
-> ⚡ Benchmarking performance, latency, and memory footprints of models.
-> 🔒 Designing secure multi-tenant architectures with Row-Level Security.
-> 💬 Ask me about FastAPI, Next.js, Postgres RLS, WebSockets, or Ollama.
+> ⚙️ Architecting scalable backends & distributed systems.
+> 🧠 Integrating LLMs (MCP, RAG) into real-world tasks.
+> ⚡ Benchmarking performance & latency of deployed models.
+> 🔒 Designing secure multi-tenant DBs with Row-Level Sec.
+> 💬 Ask about FastAPI, Next.js, Postgres, WebSockets.
 ```
 
 <br clear="right"/>

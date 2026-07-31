@@ -28,7 +28,7 @@ def draw_grid(draw, grid, cell_size, colors):
             # Shadow
             draw.rectangle([x0 + 3, y0 + 3, x1 + 3, y1 + 3], fill=(0, 0, 0, 100))  # Semi-transparent gray shadow
             # Block
-            draw.rectangle([x0, y0, x1, y1], fill=color, outline=(255, 255, 255))
+            draw.rectangle([x0, y0, x1, y1], fill=color, outline=(13, 17, 23))
 
 def draw_legend(draw, cell_size, image_width, image_height, username, year):
     # Draw day names
@@ -70,7 +70,7 @@ def create_tetris_gif(username, year, contributions, output_path):
     image_height = height * cell_size + 40  # Increased to accommodate legend and credits bar
 
     colors = ['#161b22', '#0e4429', '#006d32', '#26a641', '#39d353']
-    background_color = '#000000'  # Black background color
+    background_color = '#0d1117'  # GitHub dark background color
 
     frames = []
     grid = [[0] * height for _ in range(width)]
@@ -95,7 +95,7 @@ def create_tetris_gif(username, year, contributions, output_path):
                     draw.rectangle(
                         [x0, y0, x1, y1],
                         fill=colors[v],
-                        outline=(255, 255, 255)
+                        outline=(13, 17, 23)
                     )
 
                     frames.append(img)
