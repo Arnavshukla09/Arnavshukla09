@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40">
+import os
+
+template = """<svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40">
   <defs>
     <linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%">
       <stop offset="0%" stop-color="#38bdf8">
@@ -21,5 +23,14 @@
       }
     </style>
   </defs>
-  <text x="0" y="30" class="title">Let's Connect</text>
-</svg>
+  <text x="0" y="30" class="title">{text}</text>
+</svg>"""
+
+with open('assets/header_leetcode.svg', 'w', encoding='utf-8') as f:
+    f.write(template.replace('{text}', 'LeetCode Progress'))
+
+with open('assets/header_tetris.svg', 'w', encoding='utf-8') as f:
+    f.write(template.replace('{text}', 'Contribution Tetris'))
+
+with open('assets/header_connect.svg', 'w', encoding='utf-8') as f:
+    f.write(template.replace('{text}', "Let's Connect"))

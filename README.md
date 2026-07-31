@@ -26,23 +26,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/arnavshukla09/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:arnavshukla0925@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://portfolio-nine-teal-m27r69k97q.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Arnavshukla09/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&animation=twinkling" width="100%" />
 
@@ -241,7 +225,7 @@
 
 <br/>
 
-### 🏆 LeetCode Progress
+## 🏆 <img src="assets/header_leetcode.svg" alt="LeetCode Progress" />
 <div align="center">
   <a href="https://leetcode.com/u/Arnavshukla09/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Arnavshukla09?theme=dark&font=Outfit&ext=activity" alt="LeetCode Stats" />
@@ -250,7 +234,30 @@
 
 <br/>
 
-### 🕹️ Contribution Tetris
+## 🕹️ <img src="assets/header_tetris.svg" alt="Contribution Tetris" />
 <div align="center">
   <img src="assets/tetris.gif" width="100%" alt="Contribution Tetris Animation" />
+  <br/><br/>
+  <b>View Other Years:</b> <a href="assets/tetris_2025.gif">2025</a>
 </div>
+
+---
+
+## 🤝 <img src="assets/header_connect.svg" alt="Let's Connect" />
+<p align="center">
+  <a href="https://linkedin.com/in/arnavshukla09/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:arnavshukla0925@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio-nine-teal-m27r69k97q.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Arnavshukla09/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
