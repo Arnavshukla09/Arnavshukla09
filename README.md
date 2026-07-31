@@ -274,5 +274,5 @@
 <br/>
 
 <div align="center">
-  <img src="assets/quote.svg" width="800" alt="Satya Nadella Quote" />
+  <img src="assets/quote.svg" width="500" alt="Satya Nadella Quote" />
 </div>
