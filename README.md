@@ -62,21 +62,25 @@
 
 ## 🚀 <img src="assets/header_about.svg" alt="About Me" />
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
-```yaml
-name       : Arnav Shukla
-location   : Indore, India 🇮🇳
-university : VIT Bhopal University — B.Tech CSE (Graduating 2027)
-role       : Systems & Applied AI Engineer
-focus      : AI Systems · Backend Engineering · Distributed Systems
+```shell
+arnav@shukla:~$ cat profile.json
+{
+  "name": "Arnav Shukla",
+  "location": "Indore, India 🇮🇳",
+  "university": "VIT Bhopal University — B.Tech CSE (Graduating 2027)",
+  "role": "Systems & Applied AI Engineer",
+  "focus": ["AI Systems", "Backend Engineering", "Distributed Systems"]
+}
+
+arnav@shukla:~$ ./execute_initiatives.sh
+> ⚙️ Architecting fault-tolerant backends and scalable distributed systems.
+> 🧠 Integrating local and cloud-based LLMs (MCP, RAG) into real-world tasks.
+> ⚡ Benchmarking performance, latency, and memory footprints of models.
+> 🔒 Designing secure multi-tenant architectures with Row-Level Security.
+> 💬 Ask me about FastAPI, Next.js, Postgres RLS, WebSockets, or Ollama.
 ```
-
-- ⚙️ Architecting **fault-tolerant backends** and scalable distributed systems.
-- 🧠 Integrating **local and cloud-based LLMs** (MCP, RAG) into real-world enterprise tasks.
-- ⚡ Benchmarking **performance, latency, and memory footprints** of deployed models.
-- 🔒 Designing secure **multi-tenant architectures** with Row-Level Security.
-- 💬 Ask me about **FastAPI, Next.js, Postgres RLS, WebSockets, or Ollama**.
 
 <br clear="right"/>
 
@@ -249,4 +253,12 @@ focus      : AI Systems · Backend Engineering · Distributed Systems
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arnavshukla09&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://leetcode.com/u/Arnavshukla09/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Arnavshukla09?theme=dark&font=Outfit&ext=activity" alt="LeetCode Stats" />
+  </a>
 </div>
