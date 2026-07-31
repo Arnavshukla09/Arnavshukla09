@@ -122,14 +122,18 @@
         <code>Gemini</code>
         <code>PostGIS</code>
       </p>
-      <ul>
-        <li>✓ Strict Row-Level Security (RLS)</li>
-        <li>✓ PostGIS Geo-search for facilities</li>
-        <li>✓ Gemini AI Symptom Triage</li>
-      </ul>
+      <p>
+        ✓ Strict Row-Level Security (RLS)<br/>
+        ✓ PostGIS Geo-search for facilities<br/>
+        ✓ Gemini AI Symptom Triage
+      </p>
       <div align="left">
         <a href="https://github.com/Arnavshukla09/RURAL-HEALTHCARE-PLATFORM">
-          <img src="https://img.shields.io/badge/GitHub-Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
+          <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
+        </a>
+        &nbsp;
+        <a href="https://rural-healthcare-platform.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Demo-0d1117?style=flat-square&logo=vercel&logoColor=white&borderColor=10b981" />
         </a>
       </div>
     </td>
@@ -143,14 +147,14 @@
         <code>EnergyPlus</code>
         <code>MCP</code>
       </p>
-      <ul>
-        <li>✓ Qwen2.5 Local LLM Integration</li>
-        <li>✓ 9-tool Model Context Protocol Server</li>
-        <li>✓ Fault Tolerant WebSocket streaming</li>
-      </ul>
+      <p>
+        ✓ Qwen2.5 Local LLM Integration<br/>
+        ✓ 9-tool Model Context Protocol Server<br/>
+        ✓ Fault Tolerant WebSocket streaming
+      </p>
       <div align="left">
         <a href="https://github.com/Arnavshukla09/Eco_Loop_Building_Agents">
-          <img src="https://img.shields.io/badge/GitHub-Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
+          <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
         </a>
       </div>
     </td>
@@ -166,15 +170,18 @@
         <code>TF-IDF</code>
         <code>Chrome Extension</code>
       </p>
-      <ul>
-        <li>✓ Stateless High-Speed Ranking Pipeline</li>
-        <li>✓ Optimized 240MB Docker Image footprint</li>
-        <li>✓ Scikit-learn math with LLM explainability</li>
-      </ul>
-      <br/>
+      <p>
+        ✓ Stateless High-Speed Ranking Pipeline<br/>
+        ✓ Optimized 240MB Docker Image footprint<br/>
+        ✓ Scikit-learn math with LLM explainability
+      </p>
       <div align="left">
         <a href="https://github.com/Arnavshukla09/talentmatch-ai">
-          <img src="https://img.shields.io/badge/GitHub-Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
+          <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
+        </a>
+        &nbsp;
+        <a href="https://talentmatch-ai-orpin.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Demo-0d1117?style=flat-square&logo=vercel&logoColor=white&borderColor=10b981" />
         </a>
       </div>
     </td>
@@ -188,15 +195,14 @@
         <code>Wallet</code>
         <code>RBAC</code>
       </p>
-      <ul>
-        <li>✓ Multi-role RBAC Architecture</li>
-        <li>✓ Secure file uploads & simulated wallet</li>
-        <li>✓ Blueprint Modular Routing</li>
-      </ul>
-      <br/>
+      <p>
+        ✓ Multi-role RBAC Architecture<br/>
+        ✓ Secure file uploads & simulated wallet<br/>
+        ✓ Blueprint Modular Routing
+      </p>
       <div align="left">
         <a href="https://github.com/Arnavshukla09/Student-Service-Portal---CampusCart">
-          <img src="https://img.shields.io/badge/GitHub-Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
+          <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
         </a>
       </div>
     </td>
