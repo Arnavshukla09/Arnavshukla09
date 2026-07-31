@@ -7,42 +7,80 @@
 <br/>
 
 <div align="center">
-  <a href="https://portfolio-nine-teal-m27r69k97q.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white&borderColor=58a6ff" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/arnavshukla09/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&borderColor=58a6ff" alt="LinkedIn" />
-  </a>
-  <a href="mailto:arnavshukla0925@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white&borderColor=58a6ff" alt="Email" />
-  </a>
-  <a href="https://github.com/Arnavshukla09" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&borderColor=58a6ff" alt="GitHub" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Applied+AI+Engineer;Backend+Developer;AI+Systems+Builder;Performance+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Applied+AI+Engineer;Backend+Developer;AI+Systems+Builder;Performance+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Arnavshukla09&label=Profile%20views&color=38bdf8&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Arnavshukla09&label=Profile%20views&color=38bdf8&style=for-the-badge" alt="Profile views" />
   </a>
+  &nbsp;
+  <a href="https://github.com/Arnavshukla09?tab=followers">
+    <img src="https://img.shields.io/github/followers/Arnavshukla09?logo=github&style=for-the-badge&color=818cf8" alt="GitHub followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Arnavshukla09?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Arnavshukla09?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f59e0b" alt="Total stars" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/arnavshukla09/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:arnavshukla0925@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio-nine-teal-m27r69k97q.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Arnavshukla09/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&animation=twinkling" width="100%" />
+
+---
+
+## 🏆 Achievements at a Glance
+
+<div align="center">
+
+| 🏅 Honeywell Hackathon | 🥈 SIH 2025 | 🤖 IBM Call for Code | ☁️ AWS Certified |
+|:---:|:---:|:---:|:---:|
+| **Round 1 Shortlist** — Eco-Loop AI | Pitched **HealthSeva AI** at College Round | **Winner** — AI Knowledge Challenge | Academy Graduate — **Cloud Architecting** |
+
 </div>
 
 ---
 
-## 👋 <img src="assets/header_about.svg" alt="About Me" />
+## 🚀 <img src="assets/header_about.svg" alt="About Me" />
 
-Building production-grade software with a focus on:
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-- **AI Systems**
-- **Backend Engineering**
-- **Cloud Deployments**
-- **Performance Engineering**
-- **Secure Databases**
-- **Full Stack Applications**
+```yaml
+name       : Arnav Shukla
+location   : Indore, India 🇮🇳
+university : VIT Bhopal University — B.Tech CSE (Graduating 2027)
+role       : Systems & Applied AI Engineer
+focus      : AI Systems · Backend Engineering · Distributed Systems
+```
 
-*Every major project is deployed, benchmarked, and measured.*
+- ⚙️ Architecting **fault-tolerant backends** and scalable distributed systems.
+- 🧠 Integrating **local and cloud-based LLMs** (MCP, RAG) into real-world enterprise tasks.
+- ⚡ Benchmarking **performance, latency, and memory footprints** of deployed models.
+- 🔒 Designing secure **multi-tenant architectures** with Row-Level Security.
+- 💬 Ask me about **FastAPI, Next.js, Postgres RLS, WebSockets, or Ollama**.
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
@@ -86,32 +124,24 @@ Building production-grade software with a focus on:
   <img src="https://img.shields.io/badge/SQLAlchemy-f59e0b?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### Cloud
+### Cloud & AI
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-6366f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-6366f1?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-6366f1?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-6366f1?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-### AI
-<p align="left">
   <img src="https://img.shields.io/badge/Gemini-ec4899?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-ec4899?style=for-the-badge&logo=groq&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-ec4899?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-ec4899?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-ec4899?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-ec4899?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 <img src="assets/header_projects.svg" alt="Featured Projects" />
+## 🛠️ <img src="assets/header_projects.svg" alt="Featured Projects" />
 
 <table bordercolor="#161b22">
   <tr>
     <td width="50%" valign="top">
-      <h3>Rural Healthcare Platform</h3>
+      <h3>🏥 Rural Healthcare Platform</h3>
       <p><i>Production Telehealth Platform</i></p>
       <p>
         <code>Next.js</code>
@@ -121,9 +151,9 @@ Building production-grade software with a focus on:
         <code>PostGIS</code>
       </p>
       <ul>
-        <li>✓ RLS</li>
-        <li>✓ Benchmarked</li>
-        <li>✓ Live</li>
+        <li>✓ Strict Row-Level Security (RLS)</li>
+        <li>✓ PostGIS Geo-search for facilities</li>
+        <li>✓ Gemini AI Symptom Triage</li>
       </ul>
       <div align="left">
         <a href="https://github.com/Arnavshukla09/RURAL-HEALTHCARE-PLATFORM">
@@ -132,7 +162,7 @@ Building production-grade software with a focus on:
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3>EcoLoop</h3>
+      <h3>♻️ EcoLoop</h3>
       <p><i>Autonomous Building AI</i></p>
       <p>
         <code>FastAPI</code>
@@ -142,9 +172,9 @@ Building production-grade software with a focus on:
         <code>MCP</code>
       </p>
       <ul>
-        <li>✓ Live</li>
-        <li>✓ Local LLM</li>
-        <li>✓ Fault Tolerant</li>
+        <li>✓ Qwen2.5 Local LLM Integration</li>
+        <li>✓ 9-tool Model Context Protocol Server</li>
+        <li>✓ Fault Tolerant WebSocket streaming</li>
       </ul>
       <div align="left">
         <a href="https://github.com/Arnavshukla09/Eco_Loop_Building_Agents">
@@ -155,7 +185,7 @@ Building production-grade software with a focus on:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>TalentMatch AI</h3>
+      <h3>📄 TalentMatch AI</h3>
       <p><i>ATS Resume Ranking</i></p>
       <p>
         <code>FastAPI</code>
@@ -164,6 +194,11 @@ Building production-grade software with a focus on:
         <code>TF-IDF</code>
         <code>Chrome Extension</code>
       </p>
+      <ul>
+        <li>✓ Stateless High-Speed Ranking Pipeline</li>
+        <li>✓ Optimized 240MB Docker Image footprint</li>
+        <li>✓ Scikit-learn math with LLM explainability</li>
+      </ul>
       <br/>
       <div align="left">
         <a href="https://github.com/Arnavshukla09/talentmatch-ai">
@@ -172,7 +207,7 @@ Building production-grade software with a focus on:
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3>CampusCart</h3>
+      <h3>🛒 CampusCart</h3>
       <p><i>Campus Marketplace</i></p>
       <p>
         <code>Flask</code>
@@ -181,6 +216,11 @@ Building production-grade software with a focus on:
         <code>Wallet</code>
         <code>RBAC</code>
       </p>
+      <ul>
+        <li>✓ Multi-role RBAC Architecture</li>
+        <li>✓ Secure file uploads & simulated wallet</li>
+        <li>✓ Blueprint Modular Routing</li>
+      </ul>
       <br/>
       <div align="left">
         <a href="https://github.com/Arnavshukla09/Student-Service-Portal---CampusCart">
@@ -209,45 +249,4 @@ Building production-grade software with a focus on:
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arnavshukla09&theme=dark" />
-</div>
-
----
-
-## 🏆 <img src="assets/header_achievements.svg" alt="Achievements" />
-
-- **AWS Cloud Architecting**
-- **Honeywell Hackathon**
-- **Smart India Hackathon**
-- **NPTEL ML**
-- **IBM AI Knowledge Challenge**
-
----
-
-## 🎯 <img src="assets/header_focus.svg" alt="Current Focus" />
-
-- **Learning**
-- **System Design**
-- **AWS**
-- **LLMs**
-- **Agentic AI**
-- **MCP**
-- **Distributed Systems**
-
----
-
-## 📬 <img src="assets/header_connect.svg" alt="Let's Connect" />
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/arnavshukla09/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&borderColor=58a6ff" alt="LinkedIn" />
-  </a>
-  <a href="https://portfolio-nine-teal-m27r69k97q.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white&borderColor=58a6ff" alt="Portfolio" />
-  </a>
-  <a href="mailto:arnavshukla0925@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white&borderColor=58a6ff" alt="Email" />
-  </a>
-  <a href="https://github.com/Arnavshukla09" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&borderColor=58a6ff" alt="GitHub" />
-  </a>
 </div>
