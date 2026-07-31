@@ -273,5 +273,5 @@
 <br/>
 
 <div align="center">
-  <i>"Talk is cheap. Show me the code."</i><br/>— Linus Torvalds
+  <img src="assets/quote.svg" width="800" alt="Satya Nadella Quote" />
 </div>
