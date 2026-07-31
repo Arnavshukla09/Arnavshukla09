@@ -29,7 +29,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" /> About Me
 
 Building production-grade software with a focus on:
 
@@ -44,7 +44,7 @@ Building production-grade software with a focus on:
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> Tech Stack
 
 ### Languages
 <p align="left">
@@ -104,7 +104,7 @@ Building production-grade software with a focus on:
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" /> Featured Projects
 
 <table bordercolor="#161b22">
   <tr>
@@ -191,22 +191,23 @@ Building production-grade software with a focus on:
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bar%20Chart.png" alt="Bar Chart" width="25" /> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arnavshukla09&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnavshukla09&theme=react&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arnavshukla09&theme=dark" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Arnavshukla09&theme=dark&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnavshukla09&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arnavshukla09&theme=dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arnavshukla09&theme=dark" width="48%" />
 </div>
 
 ---
 
-## 🏆 Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" /> Achievements
 
 - **AWS Cloud Architecting**
 - **Honeywell Hackathon**
@@ -216,7 +217,7 @@ Building production-grade software with a focus on:
 
 ---
 
-## 🎯 Current Focus
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bullseye.png" alt="Bullseye" width="25" /> Current Focus
 
 - **Learning**
 - **System Design**
@@ -228,7 +229,7 @@ Building production-grade software with a focus on:
 
 ---
 
-## 📬 Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" alt="Postbox" width="25" /> Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arnavshukla09/" target="_blank">
