@@ -262,3 +262,9 @@ arnav@shukla:~$ ./execute_initiatives.sh
     <img src="https://leetcard.jacoblin.cool/Arnavshukla09?theme=dark&font=Outfit&ext=activity" alt="LeetCode Stats" />
   </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/tetris.gif" width="100%" alt="Contribution Tetris Animation" />
+</div>
