@@ -243,9 +243,10 @@
 
 <br/>
 
-## 🕹️ <img src="assets/header_tetris.svg" alt="Contribution Tetris" />
+## 🟩 <img src="assets/header_tetris.svg" alt="Contribution Blocks" />
+
 <div align="center">
-  <img src="assets/tetris.gif" width="100%" alt="Contribution Tetris Animation" />
+  <img src="assets/tetris.gif" width="100%" alt="Contribution Blocks Animation" />
   <br/><br/>
   <b>View Other Years:</b> <a href="assets/tetris_2025.gif">2025</a>
 </div>

@@ -1,0 +1,3 @@
+246: ## 🕹️ <img src="assets/header_tetris.svg" alt="Contribution Tetris" />
+248: <img src="assets/tetris.gif" width="100%" alt="Contribution Tetris Animation" />
+250: <b>View Other Years:</b> <a href="assets/tetris_2025.gif">2025</a>

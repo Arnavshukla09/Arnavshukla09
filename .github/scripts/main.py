@@ -110,8 +110,8 @@ def create_tetris_gif(username, year, contributions, output_path):
         else:
             grid[week][day] = 0
 
-    # Save as animated GIF (slower duration)
-    frames[0].save(output_path, save_all=True, append_images=frames[1:], optimize=False, duration=150, loop=0)
+    # Save as animated GIF (faster duration)
+    frames[0].save(output_path, save_all=True, append_images=frames[1:], optimize=False, duration=30, loop=0)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Generate a GitHub contributions Tetris GIF.')

@@ -30,7 +30,7 @@ with open('assets/header_leetcode.svg', 'w', encoding='utf-8') as f:
     f.write(template.replace('{text}', 'LeetCode Progress'))
 
 with open('assets/header_tetris.svg', 'w', encoding='utf-8') as f:
-    f.write(template.replace('{text}', 'Contribution Tetris'))
+    f.write(template.replace('{text}', 'Contribution Blocks'))
 
 with open('assets/header_connect.svg', 'w', encoding='utf-8') as f:
     f.write(template.replace('{text}', "Let's Connect"))
