@@ -24,25 +24,15 @@
   <a href="https://github.com/Arnavshukla09?tab=repositories">
     <img src="https://img.shields.io/github/stars/Arnavshukla09?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f59e0b" alt="Total stars" />
   </a>
-</p>
 
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&animation=twinkling" width="100%" />
 
-<img src="assets/custom_divider.png" width="100%">
+<img src="assets/animated_line.svg" width="100%" height="3">
 
-## 🏆 Achievements at a Glance
 
-<div align="center">
-
-| 🏅 Honeywell Hackathon | 🥈 SIH 2025 | 🤖 IBM Call for Code | ☁️ AWS Certified |
-|:---:|:---:|:---:|:---:|
-| **Round 1 Shortlist** — Eco-Loop AI | Pitched **HealthSeva AI** at College Round | **Winner** — AI Knowledge Challenge | Academy Graduate — **Cloud Architecting** |
-
-</div>
-
-<img src="assets/custom_divider.png" width="100%">
+<img src="assets/animated_line.svg" width="100%" height="3">
 
 ## 🚀 <img src="assets/header_about.svg" alt="About Me" />
 
@@ -65,7 +55,26 @@
 
 <img src="assets/assassins_reversed.gif" width="100%">
 
-<img src="assets/custom_divider.png" width="100%">
+<img src="assets/animated_line.svg" width="100%" height="3">
+
+## 🏆 Achievements at a Glance
+
+<div align="center">
+  <table bordercolor="#161b22">
+    <tr>
+      <td align="left">
+        <ul>
+          <li>🏅 <b>Honeywell Hackathon:</b> Round 1 Shortlist — Eco-Loop AI</li>
+          <li>🥈 <b>SIH 2025:</b> Pitched HealthSeva AI at College Round</li>
+          <li>🤖 <b>IBM Call for Code:</b> Winner — AI Knowledge Challenge</li>
+          <li>☁️ <b>AWS Certified:</b> Academy Graduate — Cloud Architecting</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="assets/animated_line.svg" width="100%" height="3">
 
 ## 💻 <img src="assets/header_tech.svg" alt="Tech Stack" />
 
@@ -77,7 +86,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3b82f6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-3b82f6?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-3b82f6?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
 
 ### Frontend
 <p align="left">
@@ -86,7 +94,6 @@
   <img src="https://img.shields.io/badge/Tailwind-8b5cf6?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-8b5cf6?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-8b5cf6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
 
 ### Backend
 <p align="left">
@@ -95,7 +102,6 @@
   <img src="https://img.shields.io/badge/Node-10b981?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/REST-10b981?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-10b981?style=for-the-badge&logo=socketdotio&logoColor=white" />
-</p>
 
 ### Database
 <p align="left">
@@ -105,7 +111,6 @@
   <img src="https://img.shields.io/badge/Supabase-f59e0b?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostGIS-f59e0b?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-f59e0b?style=for-the-badge&logo=python&logoColor=white" />
-</p>
 
 ### Cloud & AI
 <p align="left">
@@ -115,29 +120,24 @@
   <img src="https://img.shields.io/badge/Gemini-ec4899?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-ec4899?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-ec4899?style=for-the-badge&logo=anthropic&logoColor=white" />
-</p>
 
-<img src="assets/custom_divider.png" width="100%">
+<img src="assets/animated_line.svg" width="100%" height="3">
 
 ## 🛠️ <img src="assets/header_projects.svg" alt="Featured Projects" />
 
 <table bordercolor="#161b22">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Rural Healthcare Platform</h3>
-      <p><i>Production Telehealth Platform</i></p>
-      <p>
+      <b>🏥 Rural Healthcare Platform</b><br/>
+      <i>Production Telehealth Platform</i><br/><br/>
         <code>Next.js</code>
         <code>PostgreSQL</code>
         <code>Supabase</code>
         <code>Gemini</code>
         <code>PostGIS</code>
-      </p>
-      <p>
         ✓ Strict Row-Level Security (RLS)<br/>
         ✓ PostGIS Geo-search for facilities<br/>
         ✓ Gemini AI Symptom Triage
-      </p>
       <div align="left">
         <a href="https://github.com/Arnavshukla09/RURAL-HEALTHCARE-PLATFORM">
           <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
@@ -149,20 +149,16 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3>♻️ EcoLoop</h3>
-      <p><i>Autonomous Building AI</i></p>
-      <p>
+      <b>♻️ EcoLoop</b><br/>
+      <i>Autonomous Building AI</i><br/><br/>
         <code>FastAPI</code>
         <code>React</code>
         <code>Ollama</code>
         <code>EnergyPlus</code>
         <code>MCP</code>
-      </p>
-      <p>
         ✓ Qwen2.5 Local LLM Integration<br/>
         ✓ 9-tool Model Context Protocol Server<br/>
         ✓ Fault Tolerant WebSocket streaming
-      </p>
       <div align="left">
         <a href="https://github.com/Arnavshukla09/Eco_Loop_Building_Agents">
           <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
@@ -172,20 +168,16 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📄 TalentMatch AI</h3>
-      <p><i>ATS Resume Ranking</i></p>
-      <p>
+      <b>📄 TalentMatch AI</b><br/>
+      <i>ATS Resume Ranking</i><br/><br/>
         <code>FastAPI</code>
         <code>Docker</code>
         <code>Groq</code>
         <code>TF-IDF</code>
         <code>Chrome Extension</code>
-      </p>
-      <p>
         ✓ Stateless High-Speed Ranking Pipeline<br/>
         ✓ Optimized 240MB Docker Image footprint<br/>
         ✓ Scikit-learn math with LLM explainability
-      </p>
       <div align="left">
         <a href="https://github.com/Arnavshukla09/talentmatch-ai">
           <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
@@ -197,20 +189,16 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 CampusCart</h3>
-      <p><i>Campus Marketplace</i></p>
-      <p>
+      <b>🛒 CampusCart</b><br/>
+      <i>Campus Marketplace</i><br/><br/>
         <code>Flask</code>
         <code>SQLite</code>
         <code>SQLAlchemy</code>
         <code>Wallet</code>
         <code>RBAC</code>
-      </p>
-      <p>
         ✓ Multi-role RBAC Architecture<br/>
         ✓ Secure file uploads & simulated wallet<br/>
         ✓ Blueprint Modular Routing
-      </p>
       <div align="left">
         <a href="https://github.com/Arnavshukla09/Student-Service-Portal---CampusCart">
           <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
@@ -224,7 +212,7 @@
   </tr>
 </table>
 
-<img src="assets/custom_divider.png" width="100%">
+<img src="assets/animated_line.svg" width="100%" height="3">
 
 ## 📊 <img src="assets/header_analytics.svg" alt="GitHub Analytics" />
 
@@ -262,7 +250,7 @@
   <b>View Other Years:</b> <a href="assets/tetris_2025.gif">2025</a>
 </div>
 
-<img src="assets/custom_divider.png" width="100%">
+<img src="assets/animated_line.svg" width="100%" height="3">
 
 ## 🤝 <img src="assets/header_connect.svg" alt="Let's Connect" />
 <p align="center">
@@ -281,4 +269,9 @@
   <a href="https://leetcode.com/u/Arnavshukla09/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-</p>
+
+<br/>
+
+<div align="center">
+  <i>"Talk is cheap. Show me the code."</i><br/>— Linus Torvalds
+</div>
