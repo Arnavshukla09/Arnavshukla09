@@ -46,11 +46,22 @@
 
 ## 🚀 <img src="assets/header_about.svg" alt="About Me" />
 
-<img align="right" alt="Coding" width="280" src="assets/custom_laptop.gif" />
-
-<img src="assets/terminal.svg" alt="Terminal" width="530" />
-
-<br clear="right"/>
+<table bordercolor="#161b22">
+  <tr>
+    <td width="65%" valign="top">
+      <div align="center">
+        <img src="assets/terminal.svg" alt="Terminal" width="100%" />
+      </div>
+    </td>
+    <td width="35%" valign="top">
+      <div align="center">
+        <img alt="Coding" width="280" src="assets/custom_laptop.gif" />
+        <br/><br/>
+        <img alt="Badge" width="280" src="assets/about_badge.png" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <img src="assets/assassins_reversed.gif" width="100%">
 
