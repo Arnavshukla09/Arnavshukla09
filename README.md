@@ -263,7 +263,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://portfolio-nine-teal-m27r69k97q.vercel.app/" target="_blank">
+  <a href="https://arnav-shukla.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
