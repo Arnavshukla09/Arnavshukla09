@@ -171,13 +171,13 @@
       <b>📄 TalentMatch AI</b><br/>
       <i>ATS Resume Ranking</i><br/><br/>
         <code>FastAPI</code>
+        <code>C++</code>
         <code>Docker</code>
-        <code>Groq</code>
-        <code>TF-IDF</code>
-        <code>Chrome Extension</code>
-        ✓ Stateless High-Speed Ranking Pipeline<br/>
-        ✓ Optimized 240MB Docker Image footprint<br/>
-        ✓ Scikit-learn math with LLM explainability
+        <code>Sentence-Transformers</code>
+        <code>Chrome Ext</code>
+        ✓ C++ Engine & Sentence-Transformer embeddings<br/>
+        ✓ Multi-stage Docker with pre-baked ML models<br/>
+        ✓ 21.8KB Vanilla JS Chrome Extension scraper
       <div align="left">
         <a href="https://github.com/Arnavshukla09/talentmatch-ai">
           <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
