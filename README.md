@@ -223,7 +223,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Arnavshukla09&theme=dark&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arnavshukla09&theme=dark&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
 </div>
 
 <br/>
