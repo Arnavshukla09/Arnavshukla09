@@ -17,7 +17,7 @@ def get_github_contributions(username, year):
 
     body = response.json()
 
-    return [(contribution['date'], contribution['count']) for contribution in body['contributions']]
+    return [(contribution['date'], contribution['level']) for contribution in body['contributions']]
 
 def draw_grid(draw, grid, cell_size, colors):
     for week in range(len(grid)):
@@ -80,37 +80,36 @@ def create_tetris_gif(username, year, contributions, output_path):
     grid = [[0] * height for _ in range(width)]
     week = 0
 
-    for i, (date, count) in enumerate(contributions):
+    for i, (date, level) in enumerate(contributions):
         dt = datetime.strptime(date, '%Y-%m-%d')
         day = (dt.weekday() + 1) % 7
         if i > 0 and day == 0:
             week += 1
         
-        value = min(count, 4)  # Limit max count to 4 for colors
+        value = min(level, 4)  # Limit max level to 4 for colors
 
         if value > 0:
-            for v in range(1, value + 1):
-                for step in range(day + 1):
-                    # We can animate every step but maybe skip some to keep file size reasonable
-                    img = Image.new('RGB', (image_width, image_height), background_color)
-                    draw = ImageDraw.Draw(img)
-                    draw_legend(draw, cell_size, image_width, image_height, username, year)
-                    draw_grid(draw, grid, cell_size, colors)
+            for step in range(day + 1):
+                # We can animate every step but maybe skip some to keep file size reasonable
+                img = Image.new('RGB', (image_width, image_height), background_color)
+                draw = ImageDraw.Draw(img)
+                draw_legend(draw, cell_size, image_width, image_height, username, year)
+                draw_grid(draw, grid, cell_size, colors)
 
-                    # Draw moving block
-                    x0, y0 = week * cell_size + legend_width, step * cell_size + 20
-                    x1, y1 = x0 + cell_size, y0 + cell_size
-                    padding = 1.5
-                    draw.rounded_rectangle(
-                        [x0 + padding, y0 + padding, x1 - padding, y1 - padding],
-                        radius=3,
-                        fill=colors[v]
-                    )
+                # Draw moving block
+                x0, y0 = week * cell_size + legend_width, step * cell_size + 20
+                x1, y1 = x0 + cell_size, y0 + cell_size
+                padding = 1.5
+                draw.rounded_rectangle(
+                    [x0 + padding, y0 + padding, x1 - padding, y1 - padding],
+                    radius=3,
+                    fill=colors[value]
+                )
 
-                    frames.append(img)
-                
-                # After drop finishes, update grid
-                grid[week][day] = v
+                frames.append(img)
+            
+            # After drop finishes, update grid
+            grid[week][day] = value
         else:
             grid[week][day] = 0
 
@@ -120,7 +119,7 @@ def create_tetris_gif(username, year, contributions, output_path):
         frames.extend([last_frame] * 50)
 
     # Save as animated GIF (faster duration)
-    frames[0].save(output_path, save_all=True, append_images=frames[1:], optimize=False, duration=30, loop=0)
+    frames[0].save(output_path, save_all=True, append_images=frames[1:], optimize=False, duration=20, loop=0)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Generate a GitHub contributions Tetris GIF.')
