@@ -34,7 +34,7 @@
 
 <img src="assets/animated_line.svg" width="100%" height="3">
 
-## 🚀 <img src="assets/header_about.svg" alt="About Me" />
+## <img src="assets/header_about.svg" alt="About Me" />
 
 <table bordercolor="#161b22">
   <tr>
@@ -57,7 +57,7 @@
 
 <img src="assets/animated_line.svg" width="100%" height="3">
 
-## 🏆 Achievements at a Glance
+## Achievements at a Glance
 
 <div align="center">
   <table bordercolor="#161b22">
@@ -76,7 +76,7 @@
 
 <img src="assets/animated_line.svg" width="100%" height="3">
 
-## 💻 <img src="assets/header_tech.svg" alt="Tech Stack" />
+## <img src="assets/header_tech.svg" alt="Tech Stack" />
 
 ### Languages
 <p align="left">
@@ -123,7 +123,7 @@
 
 <img src="assets/animated_line.svg" width="100%" height="3">
 
-## 🛠️ <img src="assets/header_projects.svg" alt="Featured Projects" />
+## <img src="assets/header_projects.svg" alt="Featured Projects" />
 
 <table bordercolor="#161b22">
   <tr>
@@ -214,7 +214,7 @@
 
 <img src="assets/animated_line.svg" width="100%" height="3">
 
-## 📊 <img src="assets/header_analytics.svg" alt="GitHub Analytics" />
+## <img src="assets/header_analytics.svg" alt="GitHub Analytics" />
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arnavshukla09&theme=dark" />
@@ -234,7 +234,7 @@
 
 <br/>
 
-## 🏆 <img src="assets/header_leetcode.svg" alt="LeetCode Progress" />
+## <img src="assets/header_leetcode.svg" alt="LeetCode Progress" />
 <div align="center">
   <a href="https://leetcode.com/u/Arnavshukla09/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Arnavshukla09?theme=dark&font=Outfit&ext=activity" alt="LeetCode Stats" />
@@ -243,7 +243,7 @@
 
 <br/>
 
-## 🟩 <img src="assets/header_tetris.svg" alt="Contribution Blocks" />
+## <img src="assets/header_tetris.svg" alt="Contribution Blocks" />
 
 <div align="center">
   <img src="assets/tetris.gif" width="100%" alt="Contribution Blocks Animation" />
@@ -253,7 +253,7 @@
 
 <img src="assets/animated_line.svg" width="100%" height="3">
 
-## 🤝 <img src="assets/header_connect.svg" alt="Let's Connect" />
+## <img src="assets/header_connect.svg" alt="Let's Connect" />
 <p align="center">
   <a href="https://linkedin.com/in/arnavshukla09/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />

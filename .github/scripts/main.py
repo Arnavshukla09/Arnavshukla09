@@ -78,10 +78,14 @@ def create_tetris_gif(username, year, contributions, output_path):
 
     frames = []
     grid = [[0] * height for _ in range(width)]
+    week = 0
 
     for i, (date, count) in enumerate(contributions):
-        week = i // 7
-        day = i % 7
+        dt = datetime.strptime(date, '%Y-%m-%d')
+        day = (dt.weekday() + 1) % 7
+        if i > 0 and day == 0:
+            week += 1
+        
         value = min(count, 4)  # Limit max count to 4 for colors
 
         if value > 0:
@@ -109,6 +113,11 @@ def create_tetris_gif(username, year, contributions, output_path):
                 grid[week][day] = v
         else:
             grid[week][day] = 0
+
+    # Add pause at the end
+    if frames:
+        last_frame = frames[-1]
+        frames.extend([last_frame] * 50)
 
     # Save as animated GIF (faster duration)
     frames[0].save(output_path, save_all=True, append_images=frames[1:], optimize=False, duration=30, loop=0)

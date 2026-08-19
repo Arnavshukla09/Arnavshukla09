@@ -1,0 +1,13 @@
+## 🚀 <img src="assets/header_about.svg" alt="About Me" />
+## 🏆 Achievements at a Glance
+## 💻 <img src="assets/header_tech.svg" alt="Tech Stack" />
+### Languages
+### Frontend
+### Backend
+### Database
+### Cloud & AI
+## 🛠️ <img src="assets/header_projects.svg" alt="Featured Projects" />
+## 📊 <img src="assets/header_analytics.svg" alt="GitHub Analytics" />
+## 🏆 <img src="assets/header_leetcode.svg" alt="LeetCode Progress" />
+## 🟩 <img src="assets/header_tetris.svg" alt="Contribution Blocks" />
+## 🤝 <img src="assets/header_connect.svg" alt="Let's Connect" />
