@@ -1,15 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40">
   <defs>
     <linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%">
-      <stop offset="0%" stop-color="#3b82f6">
-        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#ec4899;#3b82f6" dur="3s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="50%" stop-color="#8b5cf6">
-        <animate attributeName="stop-color" values="#8b5cf6;#ec4899;#3b82f6;#8b5cf6" dur="3s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#ec4899">
-        <animate attributeName="stop-color" values="#ec4899;#3b82f6;#8b5cf6;#ec4899" dur="3s" repeatCount="indefinite" />
-      </stop>
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
     </linearGradient>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&amp;display=swap');
@@ -21,5 +15,5 @@
       }
     </style>
   </defs>
-  <text x="0" y="30" class="title">GitHub Analytics</text>
+  <text x="0" y="30" class="title">GitHub &amp; LeetCode Stats</text>
 </svg>

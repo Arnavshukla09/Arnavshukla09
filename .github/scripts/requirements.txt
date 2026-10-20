@@ -1,4 +1,3 @@
 requests
 Pillow
-argparse
 boto3

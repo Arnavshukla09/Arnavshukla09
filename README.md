@@ -67,7 +67,6 @@
           <li>🏅 <b>Honeywell Hackathon:</b> Round 1 Shortlist — Eco-Loop AI</li>
           <li>🥈 <b>SIH 2025:</b> Pitched HealthSeva AI at College Round</li>
           <li>🤖 <b>IBM Call for Code:</b> Winner — AI Knowledge Challenge</li>
-          <li>☁️ <b>AWS Certified:</b> Academy Graduate — Cloud Architecting</li>
         </ul>
       </td>
     </tr>
@@ -120,126 +119,21 @@
   <img src="https://img.shields.io/badge/Gemini-ec4899?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-ec4899?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-ec4899?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
 
 <img src="assets/animated_line.svg" width="100%" height="3">
 
-## <img src="assets/header_projects.svg" alt="Featured Projects" />
+## <img src="assets/header_analytics.svg" alt="GitHub & LeetCode Stats" />
 
-<table bordercolor="#161b22">
-  <tr>
-    <td width="50%" valign="top">
-      <b>🏥 Rural Healthcare Platform</b><br/>
-      <i>Production Telehealth Platform</i><br/><br/>
-        <code>Next.js</code>
-        <code>PostgreSQL</code>
-        <code>Supabase</code>
-        <code>Gemini</code>
-        <code>PostGIS</code>
-        ✓ Strict Row-Level Security (RLS)<br/>
-        ✓ PostGIS Geo-search for facilities<br/>
-        ✓ Gemini AI Symptom Triage
-      <div align="left">
-        <a href="https://github.com/Arnavshukla09/RURAL-HEALTHCARE-PLATFORM">
-          <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
-        </a>
-        &nbsp;
-        <a href="https://rural-healthcare-platform.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-0d1117?style=flat-square&logo=vercel&logoColor=white&borderColor=10b981" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <b>♻️ EcoLoop</b><br/>
-      <i>Autonomous Building AI</i><br/><br/>
-        <code>FastAPI</code>
-        <code>React</code>
-        <code>Ollama</code>
-        <code>EnergyPlus</code>
-        <code>MCP</code>
-        ✓ Qwen2.5 Local LLM Integration<br/>
-        ✓ 9-tool Model Context Protocol Server<br/>
-        ✓ Fault Tolerant WebSocket streaming
-      <div align="left">
-        <a href="https://github.com/Arnavshukla09/Eco_Loop_Building_Agents">
-          <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>📄 TalentMatch AI</b><br/>
-      <i>ATS Resume Ranking</i><br/><br/>
-        <code>FastAPI</code>
-        <code>C++</code>
-        <code>Docker</code>
-        <code>Sentence-Transformers</code>
-        <code>Chrome Ext</code>
-        ✓ C++ Engine & Sentence-Transformer embeddings<br/>
-        ✓ Multi-stage Docker with pre-baked ML models<br/>
-        ✓ 21.8KB Vanilla JS Chrome Extension scraper
-      <div align="left">
-        <a href="https://github.com/Arnavshukla09/talentmatch-ai">
-          <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
-        </a>
-        &nbsp;
-        <a href="https://talentmatch-ai-orpin.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-0d1117?style=flat-square&logo=vercel&logoColor=white&borderColor=10b981" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <b>🛒 CampusCart</b><br/>
-      <i>Campus Marketplace</i><br/><br/>
-        <code>Flask</code>
-        <code>SQLite</code>
-        <code>SQLAlchemy</code>
-        <code>Wallet</code>
-        <code>RBAC</code>
-        ✓ Multi-role RBAC Architecture<br/>
-        ✓ Secure file uploads & simulated wallet<br/>
-        ✓ Blueprint Modular Routing
-      <div align="left">
-        <a href="https://github.com/Arnavshukla09/Student-Service-Portal---CampusCart">
-          <img src="https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&borderColor=38bdf8" />
-        </a>
-        &nbsp;
-        <a href="https://campuscart-bq5r.onrender.com/">
-          <img src="https://img.shields.io/badge/Live_Demo-0d1117?style=flat-square&logo=render&logoColor=white&borderColor=10b981" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<img src="assets/animated_line.svg" width="100%" height="3">
-
-## <img src="assets/header_analytics.svg" alt="GitHub Analytics" />
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arnavshukla09&theme=dark" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arnavshukla09&theme=dark&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arnavshukla09&theme=dark" />
-</div>
-
-<br/>
-
-## <img src="assets/header_leetcode.svg" alt="LeetCode Progress" />
-<div align="center">
-  <a href="https://leetcode.com/u/Arnavshukla09/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Arnavshukla09?theme=dark&font=Outfit&ext=activity" alt="LeetCode Stats" />
+<p align="center">
+  <a href="https://github.com/Arnavshukla09" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Arnavshukla09&theme=dark&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="48%" alt="GitHub Streak Stats" />
   </a>
-</div>
+  &nbsp;
+  <a href="https://leetcode.com/u/Arnavshukla09/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Arnavshukla09?theme=dark&font=Outfit" width="48%" alt="LeetCode Stats" />
+  </a>
+</p>
 
 <br/>
 
@@ -272,7 +166,3 @@
   </a>
 
 <br/>
-
-<div align="center">
-  <img src="assets/quote.svg" width="500" alt="Satya Nadella Quote" />
-</div>
