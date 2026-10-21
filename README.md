@@ -37,8 +37,8 @@
 ## <img src="assets/header_about.svg" alt="About Me" />
 
 <table bordercolor="#161b22">
-  <tr>
-    <td width="65%" valign="top">
+<tr>
+<td width="65%" valign="top">
 
 ```shell
 arnav@shukla:~$ cat profile.json
@@ -58,15 +58,15 @@ arnav@shukla:~$ ./execute_initiatives.sh
 > 💬 Ask about FastAPI, Next.js, Postgres, WebSockets.
 ```
 
-    </td>
-    <td width="35%" valign="top">
-      <div align="center">
-        <img alt="Coding" width="280" src="assets/custom_laptop.gif" />
-        <br/><br/>
-        <img alt="Badge" width="280" src="assets/about_badge.png" />
-      </div>
-    </td>
-  </tr>
+</td>
+<td width="35%" valign="top" align="center">
+
+<img alt="Coding" width="280" src="assets/custom_laptop.gif" />
+<br/><br/>
+<img alt="Badge" width="280" src="assets/about_badge.png" />
+
+</td>
+</tr>
 </table>
 
 <img src="assets/assassins_reversed.gif" width="100%">
