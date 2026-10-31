@@ -1,10 +1,12 @@
-<div align="center">
-  <a href="https://portfolio-nine-teal-m27r69k97q.vercel.app/" target="_blank">
-    <img src="assets/banner.svg" alt="Arnav Shukla Banner" width="100%" />
-  </a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling" width="100%" />
 
-<br/>
+<div align="center">
+  <h1>Arnav Shukla</h1>
+  <p>
+    <b>Systems &amp; Applied AI Engineer</b><br/>
+    <i>Building production-grade software at the intersection of AI &amp; Backend</i>
+  </p>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Applied+AI+Engineer;Backend+Developer;AI+Systems+Builder;Performance+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
@@ -13,32 +15,18 @@
 <br/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Arnavshukla09&label=Profile%20views&color=38bdf8&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Arnavshukla09&label=Profile%20views&color=38bdf8&style=for-the-badge" alt="Profile views" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Arnavshukla09?tab=followers">
-    <img src="https://img.shields.io/github/followers/Arnavshukla09?logo=github&style=for-the-badge&color=818cf8" alt="GitHub followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Arnavshukla09?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Arnavshukla09?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f59e0b" alt="Total stars" />
-  </a>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&animation=twinkling" width="100%" />
+  <a href="https://komarev.com/ghpvc/?username=Arnavshukla09&label=Profile%20views&color=38bdf8&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=Arnavshukla09&label=Profile%20views&color=38bdf8&style=for-the-badge" alt="Profile views" /></a>
+  <a href="https://github.com/Arnavshukla09?tab=followers"><img src="https://img.shields.io/github/followers/Arnavshukla09?logo=github&style=for-the-badge&color=818cf8" alt="GitHub followers" /></a>
+  <a href="https://github.com/Arnavshukla09?tab=repositories"><img src="https://img.shields.io/github/stars/Arnavshukla09?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f59e0b" alt="Total stars" /></a>
+</p>
 
 <img src="assets/animated_line.svg" width="100%" height="3">
 
-
-<img src="assets/animated_line.svg" width="100%" height="3">
-
-## <img src="assets/header_about.svg" alt="About Me" />
+## About Me
 
 <table bordercolor="#161b22">
 <tr>
-<td width="65%" valign="top">
+<td width="62%" valign="top">
 
 ```shell
 arnav@shukla:~$ cat profile.json
@@ -59,17 +47,13 @@ arnav@shukla:~$ ./execute_initiatives.sh
 ```
 
 </td>
-<td width="35%" valign="top" align="center">
+<td width="38%" valign="middle" align="center">
 
-<img alt="Coding" width="280" src="assets/custom_laptop.gif" />
-<br/><br/>
-<img alt="Badge" width="280" src="assets/about_badge.png" />
+<img alt="Coding" width="100%" src="assets/custom_laptop.gif" />
 
 </td>
 </tr>
 </table>
-
-<img src="assets/assassins_reversed.gif" width="100%">
 
 <img src="assets/animated_line.svg" width="100%" height="3">
 
@@ -91,7 +75,7 @@ arnav@shukla:~$ ./execute_initiatives.sh
 
 <img src="assets/animated_line.svg" width="100%" height="3">
 
-## <img src="assets/header_tech.svg" alt="Tech Stack" />
+## Tech Stack
 
 ### Languages
 <p align="left">
@@ -101,6 +85,7 @@ arnav@shukla:~$ ./execute_initiatives.sh
   <img src="https://img.shields.io/badge/TypeScript-3b82f6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-3b82f6?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-3b82f6?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ### Frontend
 <p align="left">
@@ -109,6 +94,7 @@ arnav@shukla:~$ ./execute_initiatives.sh
   <img src="https://img.shields.io/badge/Tailwind-8b5cf6?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-8b5cf6?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-8b5cf6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ### Backend
 <p align="left">
@@ -117,6 +103,7 @@ arnav@shukla:~$ ./execute_initiatives.sh
   <img src="https://img.shields.io/badge/Node-10b981?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/REST-10b981?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-10b981?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</p>
 
 ### Database
 <p align="left">
@@ -126,6 +113,7 @@ arnav@shukla:~$ ./execute_initiatives.sh
   <img src="https://img.shields.io/badge/Supabase-f59e0b?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostGIS-f59e0b?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-f59e0b?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ### Cloud & AI
 <p align="left">
@@ -139,46 +127,30 @@ arnav@shukla:~$ ./execute_initiatives.sh
 
 <img src="assets/animated_line.svg" width="100%" height="3">
 
-## <img src="assets/header_analytics.svg" alt="GitHub & LeetCode Stats" />
+## GitHub & LeetCode Stats
 
 <p align="center">
-  <a href="https://github.com/Arnavshukla09" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Arnavshukla09&theme=dark&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="48%" alt="GitHub Streak Stats" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Arnavshukla09/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Arnavshukla09?theme=dark&font=Outfit" width="48%" alt="LeetCode Stats" />
-  </a>
+  <a href="https://github.com/Arnavshukla09" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=Arnavshukla09&theme=dark&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="48%" alt="GitHub Streak Stats" /></a>
+  <a href="https://leetcode.com/u/Arnavshukla09/" target="_blank"><img src="https://leetcard.jacoblin.cool/Arnavshukla09?theme=dark&font=Outfit" width="48%" alt="LeetCode Stats" /></a>
 </p>
 
 <br/>
 
-## <img src="assets/header_tetris.svg" alt="Contribution Blocks" />
+## Contribution Blocks
 
 <div align="center">
   <img src="assets/tetris.gif" width="100%" alt="Contribution Blocks Animation" />
-  <br/><br/>
-  <b>View Other Years:</b> <a href="assets/tetris_2025.gif">2025</a>
 </div>
 
 <img src="assets/animated_line.svg" width="100%" height="3">
 
-## <img src="assets/header_connect.svg" alt="Let's Connect" />
+## Let's Connect
+
 <p align="center">
-  <a href="https://linkedin.com/in/arnavshukla09/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:arnavshukla0925@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://arnav-shukla.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Arnavshukla09/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+  <a href="https://linkedin.com/in/arnavshukla09/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:arnavshukla0925@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://arnav-shukla.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/u/Arnavshukla09/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</p>
 
 <br/>
