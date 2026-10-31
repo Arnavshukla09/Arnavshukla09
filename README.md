@@ -1,24 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header" width="100%" />
 
 <div align="center">
   <h1>Arnav Shukla</h1>
+  <p><b>Systems &amp; Applied AI Engineer</b> &nbsp;|&nbsp; <i>Building production-grade software at the intersection of AI &amp; Backend</i></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&height=35&lines=Full+Stack+Engineer;Applied+AI+Engineer;Backend+Developer;AI+Systems+Builder;Performance+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
   <p>
-    <b>Systems &amp; Applied AI Engineer</b><br/>
-    <i>Building production-grade software at the intersection of AI &amp; Backend</i>
+    <a href="https://komarev.com/ghpvc/?username=Arnavshukla09&label=Profile%20views&color=38bdf8&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=Arnavshukla09&label=Profile%20views&color=38bdf8&style=for-the-badge" alt="Profile views" /></a>
+    <a href="https://github.com/Arnavshukla09?tab=followers"><img src="https://img.shields.io/github/followers/Arnavshukla09?logo=github&style=for-the-badge&color=818cf8" alt="GitHub followers" /></a>
+    <a href="https://github.com/Arnavshukla09?tab=repositories"><img src="https://img.shields.io/github/stars/Arnavshukla09?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f59e0b" alt="Total stars" /></a>
   </p>
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Applied+AI+Engineer;Backend+Developer;AI+Systems+Builder;Performance+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Arnavshukla09&label=Profile%20views&color=38bdf8&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=Arnavshukla09&label=Profile%20views&color=38bdf8&style=for-the-badge" alt="Profile views" /></a>
-  <a href="https://github.com/Arnavshukla09?tab=followers"><img src="https://img.shields.io/github/followers/Arnavshukla09?logo=github&style=for-the-badge&color=818cf8" alt="GitHub followers" /></a>
-  <a href="https://github.com/Arnavshukla09?tab=repositories"><img src="https://img.shields.io/github/stars/Arnavshukla09?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f59e0b" alt="Total stars" /></a>
-</p>
 
 <img src="assets/animated_line.svg" width="100%" height="3">
 
@@ -49,7 +40,7 @@ arnav@shukla:~$ ./execute_initiatives.sh
 </td>
 <td width="38%" valign="middle" align="center">
 
-<img alt="Coding" width="100%" src="assets/custom_laptop.gif" />
+<img alt="Coding Laptop" width="100%" src="assets/about_badge.png" />
 
 </td>
 </tr>
