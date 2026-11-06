@@ -2,14 +2,8 @@ name: Generate Tetris Contribution GIF
 
 on:
   schedule:
-    - cron: "0 */2 * * *" # Runs every 2 hours
-  workflow_dispatch: # Allows manual triggering
-  push:
-    branches:
-      - main
-    paths:
-      - '.github/scripts/**'
-      - '.github/workflows/update-tetris.yml'
+    - cron: "0 0 * * *" # Runs once daily at midnight UTC
+  workflow_dispatch: # Allows manual triggering anytime
 
 jobs:
   build:
